@@ -78,7 +78,7 @@ C:\Users\veerasimhan_mass\Desktop\Instagram>python3 instagram.py Sami09.1 pass.l
 This mode uses 32 bots, or 512 passwords at a time.
 
 ```
-C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
+C:\Users\veerasimhan_mass\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 ```
 
 ### If you don't specify a mode, then mode is set to 2
