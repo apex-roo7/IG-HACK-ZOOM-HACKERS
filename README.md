@@ -3,10 +3,9 @@ INSTA HACKING PRIVATE TOOL
 
 ### Instagram Bruter
 
-[![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
-[![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/)
-[![Donate](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/Vyshu101)
+[Version]https://instagram.com/veerasimhan_mass?igshid=YmMyMTA2M2Y=
+[Instagram]https://instagram.com/veerasimhan_mass?igshid=YmMyMTA2M2Y=
+
 
 This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
 
