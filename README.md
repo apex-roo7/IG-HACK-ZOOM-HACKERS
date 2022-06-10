@@ -37,14 +37,22 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -m MODE, --mode MODE  modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots
-```
 
+```
+###Install
+apt update && apt upgrade -y
+apt install git
+apt install python
+apt install python2
+git clone https://github.com/veerasimhan-mass/IG-HACK-ZOOM-HACKERS.git
+cd IG-HACK-ZOOM-HACKERS
 ### Usage
 
 ```
 python3 instagram.py <username> <wordlist> -m <mode>
 ```
-
+###RUN
+python3 instagram.py <username> /sdcard/Download/password.txt -m 3
 ### Bots(Threads)
 
 -   4 bots: 64 passwords at a time
